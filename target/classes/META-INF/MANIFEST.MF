@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sb-app-ssl
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vikas.verma
+Implementation-Vendor-Id: com.app
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/sb-app-ssl/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

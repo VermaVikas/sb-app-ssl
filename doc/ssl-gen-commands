@@ -1,0 +1,20 @@
+C:\Program Files\Java\jdk1.8.0_101\bin>keytool -genkey -alias selfsigned_sbapp_key -keyalg RSA -keysize 2048 -validity 700 -keypass sbappkey -storepass sbappkey -keystore ssl-server.jks
+What is your first and last name?
+  [Unknown]:  sbapplocahost
+What is the name of your organizational unit?
+  [Unknown]:  blog
+What is the name of your organization?
+  [Unknown]:  ntech
+What is the name of your City or Locality?
+  [Unknown]:  AMD
+What is the name of your State or Province?
+  [Unknown]:  GJ
+What is the two-letter country code for this unit?
+  [Unknown]:  IN
+Is CN=sbapplocahost, OU=blog, O=ntech, L=AMD, ST=GJ, C=IN correct?
+  [no]:  y
+  
+  
+  
+  
+ After this copy 'ssl-server.jks' file to resources folder of project
